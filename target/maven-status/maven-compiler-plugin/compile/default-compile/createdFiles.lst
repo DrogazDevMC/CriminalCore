@@ -1,7 +1,9 @@
 nl\criminalmt\criminalcore\framework\items\PotionBuilder.class
+nl\criminalmt\criminalcore\modules\skills\menus\SkillsMenu$2.class
 nl\criminalmt\criminalcore\modules\player\listeners\BlockModificationListener.class
 nl\criminalmt\criminalcore\modules\drugs\items\DrugsItems.class
 nl\criminalmt\criminalcore\modules\player\listeners\KnifeListener.class
+nl\criminalmt\criminalcore\framework\configs\SkillsYML.class
 nl\criminalmt\criminalcore\framework\file\File.class
 nl\criminalmt\criminalcore\modules\skills\menus\SkillsMenu.class
 nl\criminalmt\criminalcore\modules\drugs\listeners\ClickProcessTableListener.class
@@ -9,7 +11,9 @@ nl\criminalmt\criminalcore\modules\skills\SkillsModule.class
 nl\criminalmt\criminalcore\framework\items\NBTEditor$NBTCompound.class
 nl\criminalmt\criminalcore\framework\items\NBTEditor.class
 nl\criminalmt\criminalcore\modules\phone\ItemGiver.class
+nl\criminalmt\criminalcore\modules\skills\menus\SkillsMenu$1.class
 nl\criminalmt\criminalcore\modules\drugs\listeners\HarvestDrugsListener.class
+nl\criminalmt\criminalcore\modules\skills\listener\FirstJoinEvent.class
 nl\criminalmt\criminalcore\modules\phone\listeners\OpenPhoneListener.class
 nl\criminalmt\criminalcore\framework\gui\GUI.class
 nl\criminalmt\criminalcore\framework\gui\InventoryListener.class

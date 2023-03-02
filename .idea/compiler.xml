@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="DrugsMTCore" />
         <module name="criminalcore" />
+        <module name="CriminalCore" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="CriminalCore" options="-parameters" />
       <module name="DrugsMTCore" options="-parameters" />
       <module name="criminalcore" options="-parameters" />
     </option>
