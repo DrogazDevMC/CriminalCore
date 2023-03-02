@@ -1,8 +1,33 @@
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Logo](https://avatars.githubusercontent.com/u/109096719?s=200&v=4)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+# CriminalCore - for Criminal Minetopia
+
+This plugin is only for Criminal Minetopia
+
+
+
+
+## Features
+
+- Skills
+- Fully configurable drugs system
+- Custom Phone
+- Turfwars
+- Starter Kits
+- Custom Broadcast
+- Medkits & Bandages
+
+## Have to be implemented
+
+- Custom Jobs (Hacker, Hitman, etc.)
+- Skill Exp earning activities
+
+
+
+
+## Authors
+
+- [@DrogazDev](https://www.github.com/drogazdev)
+
