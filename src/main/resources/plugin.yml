@@ -1,0 +1,8 @@
+name: CriminalCore
+version: '${project.version}'
+main: nl.criminalmt.criminalcore.CriminalCore
+depend:
+  - Vault
+  - MT-Wapens
+authors:
+  - 83J
